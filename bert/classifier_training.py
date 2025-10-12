@@ -456,7 +456,7 @@ def main():
     print("=" * 60)
     
     # Configuration
-    CSV_FILE = "formatted_cookie_data.csv"  # Update this!
+    CSV_FILE = "../cookie_scraper/Ergebnisse/enhanced_cookie_bert_20250730_195658.csv"  # Update this!
     MODEL_NAME = "bert-base-german-cased"  # German BERT for German cookie buttons
     
     # Check if data file exists
